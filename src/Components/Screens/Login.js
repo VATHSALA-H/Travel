@@ -13,7 +13,7 @@ function Login() {
     const [message, setMessage] = useState("");
     const [nextPath, setNextPath] = useState("");
 
-    const {userData, updateUserData} = useContext(UserContext);
+    const {updateUserData} = useContext(UserContext);
 
     const history = useNavigate ();
 

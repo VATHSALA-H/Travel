@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Login from "./Components/Screens/Login";
 import Signup from "./Components/Screens/Signup";
 import NotFound from "./Components/Screens/NotFound";
-import React, { useState, useEffect, act } from 'react';
+import React, { useState, useEffect } from 'react';
 import PrivateRoute from './Components/PrivateRoute';
 
 
