@@ -1,0 +1,181 @@
+{
+    "StatusCode": 6000,
+    "data": [
+      {
+        "id": 24,
+        "name": "Australia",
+        "location": "Australia",
+        "image": "https://traveller.talrop.works/media/web/1_piTqwEz.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 25,
+        "name": "Dubai",
+        "location": "Dubai Beach",
+        "image": "https://traveller.talrop.works/media/web/1_1MyuFqH.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 26,
+        "name": "Goa",
+        "location": "Goa Beach",
+        "image": "https://traveller.talrop.works/media/web/images.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 27,
+        "name": "Lakshadweep",
+        "location": "Lakshadweep Beach",
+        "image": "https://traveller.talrop.works/media/web/1_HQOghsn.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 28,
+        "name": "Maldives",
+        "location": "Maldives Island",
+        "image": "https://traveller.talrop.works/media/web/1_jAXLobq.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 29,
+        "name": "Tokyo",
+        "location": "Tokyo Beach",
+        "image": "https://traveller.talrop.works/media/web/images_xaRGutW.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 30,
+        "name": "Bukovel",
+        "location": "Bukovel",
+        "image": "https://traveller.talrop.works/media/web/05.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 31,
+        "name": "Faroe Island Denmark",
+        "location": "Faroe Island Denmark",
+        "image": "https://traveller.talrop.works/media/web/05_5mqYL47.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 32,
+        "name": "Kashmir",
+        "location": "Kashmir",
+        "image": "https://traveller.talrop.works/media/web/05_vZsvB4D.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 33,
+        "name": "Ladakh",
+        "location": "Ladakh",
+        "image": "https://traveller.talrop.works/media/web/05_Yfkmrgd.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 34,
+        "name": "Manali",
+        "location": "Manali",
+        "image": "https://traveller.talrop.works/media/web/04_JOFPGa5.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 35,
+        "name": "Munnar",
+        "location": "Munnar",
+        "image": "https://traveller.talrop.works/media/web/05_Sy5Ien6.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 36,
+        "name": "Alpes mountains",
+        "location": "Alpes mountains",
+        "image": "https://traveller.talrop.works/media/web/05_WwBVXX4.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 37,
+        "name": "Marmolada mountains",
+        "location": "Marmolada mountains",
+        "image": "https://traveller.talrop.works/media/web/05_LY2g2gB.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 38,
+        "name": "Matterhorn mountain",
+        "location": "Matterhorn mountain",
+        "image": "https://traveller.talrop.works/media/web/05_pCRygfM.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 39,
+        "name": "MOUNT EVEREST",
+        "location": "CHINA",
+        "image": "https://traveller.talrop.works/media/web/05_ivbvfl2.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 40,
+        "name": "Mount kilimanjaro",
+        "location": "Mount kilimanjaro",
+        "image": "https://traveller.talrop.works/media/web/05_R4IrzOW.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 41,
+        "name": "Mount McKinley",
+        "location": "Mount McKinley",
+        "image": "https://traveller.talrop.works/media/web/05_RvMqIoQ.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 42,
+        "name": "Athirapally",
+        "location": "Athirapally",
+        "image": "https://traveller.talrop.works/media/web/05_7vw7TXm.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 43,
+        "name": "Dudhsagar",
+        "location": "Dudhsagar",
+        "image": "https://traveller.talrop.works/media/web/05_cQ3Y72A.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 44,
+        "name": "Gulfoss falls",
+        "location": "Gulfoss falls",
+        "image": "https://traveller.talrop.works/media/web/05_6hh0VAE.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 45,
+        "name": "jog falls",
+        "location": "jog falls",
+        "image": "https://traveller.talrop.works/media/web/05_hLalrGC.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 46,
+        "name": "Niagara falls",
+        "location": "Niagara falls",
+        "image": "https://traveller.talrop.works/media/web/02_5PwxJng.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 47,
+        "name": "Victoria falls",
+        "location": "Victoria falls",
+        "image": "https://traveller.talrop.works/media/web/01_hEgGdIq.jpg",
+        "is_featured": false
+      },
+      {
+        "id": 48,
+        "name": "Tokyo",
+        "location": "TOKYO",
+        "image": "https://traveller.talrop.works/media/web/02_hVs5yGT.jpg",
+        "is_featured": false
+      }
+    ]
+  }
+  
