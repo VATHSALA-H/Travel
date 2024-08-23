@@ -24,7 +24,7 @@ function Login() {
         const values = queryString.parse(search);
         const {next} = values;
         setNextPath(next);
-    },[])
+    },[location])
 
     const handleSubmit = (e)=> {
         e.preventDefault();

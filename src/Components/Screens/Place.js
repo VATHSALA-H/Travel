@@ -32,7 +32,7 @@ function Place() {
         console.log(error);
       })
 
-  }, []);
+  }, [id,userData]);
   return (
     <div>
       <Helmet>
